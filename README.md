@@ -3,6 +3,7 @@
 ### TeachableMachine
 - https://teachablemachine.withgoogle.com/
 - https://www.youtube.com/watch?v=mW6Z9TIqNUQ
+- https://www.youtube.com/watch?v=3ldWrBRK5LE
 
 
 ### Hey there! Welcome to yogAI, developed in 2020 by Cristina Maillo.
